@@ -1,4 +1,4 @@
-<a href="https://1worldtech.com"> # 1WORLDTECH </a>
+<a href="https://1worldtech.com"><h2>1WORLDTECH</h2></a>
 <hr>
 <p>Single page app for 1World Technologies</p>
 
@@ -12,4 +12,4 @@
 <li>Bootstrap</li>
 <li>jQuery</li>
 <li>php</li>
-</ul
+</ul>
