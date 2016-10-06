@@ -2,8 +2,8 @@
 if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "brandon@1worldtech.com";
-    $email_subject = "RE: 1wordtechnology.com";
+    $email_to = "#";
+    $email_subject = "#";
  
     function died($error) {
         // your error code can go here
@@ -63,7 +63,7 @@ $headers = 'From: '.$email_from."\r\n".
 'X-Mailer: PHP/' . phpversion();
 @mail($email_to, $email_subject, $email_message, $headers);
 sleep(2);
-echo "<meta http-equiv='refresh' content=\"0; url=http://www.1worldtech.com\">";
+echo "<meta http-equiv='refresh' content=\"0; url=http://#\">";
 ?>
  
 <?php
